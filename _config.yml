@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Siyu Lai"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Siyu Lai -- Jeff 的小宝贝"
+name                     : "Siyu Lai"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Siyu Lai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/grad.jpg/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "San Diego, CA"
   email            :
@@ -104,7 +104,7 @@ author:
       url: mailto:Siyu.Lai@rady.edu
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url:" https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
