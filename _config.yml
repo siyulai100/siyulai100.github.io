@@ -109,7 +109,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-LinkedIn-square"
+      icon: "fab fa-fw fa-LinkedIn"
       url: "https://www.linkedin.com/in/siyu-lai/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -284,4 +284,4 @@ defaults:
       type: posts
       values:
       layout: single
-      author_profile: true 
+      author_profile: true
