@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/grad.jpg"
+  image: "/images/cloud.jpg"
 ---
 
 * M.S. in Business Analytics at UCSD, B.A. in Statistics at UIUC
