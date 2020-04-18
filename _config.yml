@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Siyu Lai"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/grad.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Making Data-Driven Decisions."
   location         : "San Diego, CA"
   email            :
