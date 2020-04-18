@@ -1,6 +1,7 @@
 ---
-title: "About"
+layout: single
 permalink: /about/
+title: "About"
 author_profile: true
 header:
   image: "/images/city.jpg"
