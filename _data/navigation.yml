@@ -1,7 +1,14 @@
 # main links
 main:
+<<<<<<< HEAD
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+=======
+  - title: "About"
+    url: /about/
+  - title: "Fraud Analysis"
+    url: /fraud-analysis/
+>>>>>>> 49f17083dd9f8e225c2351ca534c56d49021d9bb
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -9,4 +16,8 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
+<<<<<<< HEAD
   #   url: /sitemap/
+=======
+  #   url: /sitemap/
+>>>>>>> 49f17083dd9f8e225c2351ca534c56d49021d9bb
