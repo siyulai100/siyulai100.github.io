@@ -29,7 +29,6 @@ Machine Learning, Web analytics, Recommended System, Text mining and Data mining
 - Detail-oriented self-starter with fast-learning, decision-making, problem-solving, story-telling, communication and client facing skills
 
 ## Education
----
 **University of California, San Diego**
 Master of Science in Business Analytics\
 Coursework: Business Analytics; Machine Learning; Large Data, Web Analytics, Text Mining, Customer Analytics, Big Data, Fraud Analysis
@@ -39,7 +38,6 @@ Bachelor of Science in Statistics, Minor in Business\
 GPA:3.86/4.0
 
 ## EXPERIENCE
----
 **Data Analyst & Project Manager** (Capstone)\
 *Becton Dickinson, San Diego, CA*\
 *02/2020 – present*
@@ -47,8 +45,8 @@ GPA:3.86/4.0
 - Predict future daily patient drug usage by acuity based upon current trajectories of COVID-19 positive patients by state. Recommend amount
 of drugs to be stocked to support estimated patient load over next period.
 
-**Data Analyst Research Assistance**\
-*Gies College of Business, UIUC, Urbana, IL*\
+**Data Analyst Research Assistance**<br/>
+*Gies College of Business, UIUC, Urbana, IL*<br/>
 *03/2019 - 08/2019*
 - Conducted web analytics with python to scrape Amazon website to track over 1000 products’ information within designed categories and price
 over 3 months. Performed batch processing to solve memory problems using Bash.
