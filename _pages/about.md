@@ -4,7 +4,7 @@ permalink: /about/
 title: "About"
 author_profile: true
 header:
-  image: "/images/city.jpg"
+  image: "/images/laptop.jpg"
 ---
 
 M.S. in Business Analytics at UCSD, B.A. in Statistics at UIUC
