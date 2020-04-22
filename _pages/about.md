@@ -3,13 +3,9 @@ layout: single
 permalink: /about/
 title: "About"
 author_profile: true
-excerpt: "**Siyu Lai**Actively seeking for Data Analyst / Product Analyst / Business Analyst position, please contact me freely at Siyu.Lai@rady.ucsd.edu"
 header:
-  overlay_image: "/images/laptop.jpg"
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  actions:
-    - label: "More Info"
-      url: "https://unsplash.com"
+  image: "/images/laptop.jpg"
+
 ---
 
 layout: home
