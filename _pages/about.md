@@ -40,15 +40,15 @@ Machine Learning, Web analytics, Recommended System, Text mining and Data mining
 
 ## EXPERIENCE
 ---
-**Data Analyst & Project Manager** (Capstone)\s
-*Becton Dickinson, San Diego, CA*\s
+**Data Analyst & Project Manager** (Capstone)\s\s
+*Becton Dickinson, San Diego, CA*\s\s
 *02/2020 – present*
 - Visualize data collected from CDC and Pyxis MedStation drug usage data in dashboard of Tableau.
 - Predict future daily patient drug usage by acuity based upon current trajectories of COVID-19 positive patients by state. Recommend amount
 of drugs to be stocked to support estimated patient load over next period.
 
-**Data Analyst Research Assistance**\s
-*Gies College of Business, UIUC, Urbana, IL*\s
+**Data Analyst Research Assistance**\s\s
+*Gies College of Business, UIUC, Urbana, IL*\s\s
 *03/2019 - 08/2019*
 - Conducted web analytics with python to scrape Amazon website to track over 1000 products’ information within designed categories and price
 over 3 months. Performed batch processing to solve memory problems using Bash.
