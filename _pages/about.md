@@ -12,14 +12,6 @@ header:
       url: "https://www.linkedin.com/in/siyu-lai/"
 ---
 
-
-## Summary
-- Data Analyst with 2 years’ research experience manipulating large dataset in R, gained business insight and communication skills from intern  experience in Health&Retention consulting firm and Capstone project with COVID-19 related dataset in Healthcare industry.
-- Proficient in Statistical Analysis (PCA, regressions, decision tree, clustering, Monte Carlo, Bootstrap), Predictive Modeling, Optimization,
-Machine Learning, Web analytics, Recommended System, Text mining and Data mining
-- *Technical Skills*: R (4 years), Python (Pandas, NumPy, Seaborn), SQL, SAS, Java, Html, Excel, LaTeX, Tableau, Git, Spark, Hadoop, AWS
-- Detail-oriented self-starter with fast-learning, decision-making, problem-solving, story-telling, communication and client facing skills
-
 ## Education
 **University of California, San Diego**
 Master of Science in Business Analytics 2020<br/>
@@ -28,6 +20,13 @@ Coursework: Business Analytics; Machine Learning; Large Data, Web Analytics, Tex
 **University of Illinois, Urbana-Champaign**
 Bachelor of Science in Statistics, Minor in Business 2019<br/>
 GPA:3.86/4.0
+
+## Summary
+- Data Analyst with 2 years’ research experience manipulating large dataset in R, gained business insight and communication skills from intern  experience in Health&Retention consulting firm and Capstone project with COVID-19 related dataset in Healthcare industry.
+- Proficient in Statistical Analysis (PCA, regressions, decision tree, clustering, Monte Carlo, Bootstrap), Predictive Modeling, Optimization,
+Machine Learning, Web analytics, Recommended System, Text mining and Data mining
+- **Technical Skills**: R (4 years), Python (Pandas, NumPy, Seaborn), SQL, SAS, Java, Html, Excel, LaTeX, Tableau, Git, Spark, Hadoop, AWS
+- Detail-oriented self-starter with fast-learning, decision-making, problem-solving, story-telling, communication and client facing skills
 
 ## EXPERIENCE
 **Data Analyst & Project Manager** (Capstone)<br/>
