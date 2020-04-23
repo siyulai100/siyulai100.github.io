@@ -32,7 +32,7 @@ Machine Learning, Web analytics, Recommended System, Text mining and Data mining
 **Data Analyst & Project Manager** (Capstone)<br/>
 *Becton Dickinson, San Diego, CA*<br/>
 *02/2020 – present*
-- Visualize data collected from CDC and Pyxis MedStation drug usage data in dashboard of Tableau.
+- Visualize data collected from CDC and Pyxis MedStation drug usage data in dashboard of **Tableau**.
 - Predict future daily patient drug usage by acuity based upon current trajectories of COVID-19 positive patients by state. Recommend amount
 of drugs to be stocked to support estimated patient load over next period.
 
@@ -40,7 +40,15 @@ of drugs to be stocked to support estimated patient load over next period.
 *Gies College of Business, UIUC, Urbana, IL*<br/>
 *03/2019 - 08/2019*
 - Conducted web analytics with python to scrape Amazon website to track over 1000 products’ information within designed categories and price
-over 3 months. Performed batch processing to solve memory problems using Bash.
+over 3 months. Performed batch processing to solve memory problems using **Bash**.
 - Compensated missing data in R with imputation techniques (LOCF) and normalization.
 - Analyzed the relationship between competition and price volatility in the amazon dataset with R, synthesized and visualized the result from
 analyzing standard deviation, coefficient of variation and MAPE for each time cycle.
+
+**Data Analyst, Health & Retention**<br/>
+*Aon Hewitt, Shanghai, China*<br/>
+*05/2018 - 08/2018*
+- Manipulated big datasets and provided normalized data to professional mentor in **Excel**, who used it for customers’ flexible solutions for
+pharmaceutical company’s employee benefits plan.
+- Organized data to build up industry benchmarks so as to visualize the potential benefits of Aon’s business solutions in **Tableau** and **Power
+point**; Created well-organized presentations to help customers easily understand consulting results and make the business decisions
