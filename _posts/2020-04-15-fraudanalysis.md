@@ -9,7 +9,7 @@ mathjax: "true"
 ---
 
 # New York Property Tax Fraud Analysis
-
+[Link to my project detals!](https://github.com/siyulai100/Fraud-Analysis-)
 ## Project Description
 
 * Build an algorithmic system that can look through ~1 million property records to find potential tax fraud.
