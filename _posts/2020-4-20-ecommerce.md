@@ -34,24 +34,24 @@ mathjax: "true"
 * Features we selected: Delivery_time, Delivery_late, Product_category_name, Product_description_lenght, Product_photos_qty, Seller_state
 
 * This model ended up with AUC of 0.63
-<img src="{{ site.url }}{{ site.baseurl }}/images/pic1.jpg" alt="">
+<img src="{{ site.url }}{{ site.baseurl }}/images/ecommerce/pic1.jpg" alt="">
 
 * However, it may not be the best method to one-hot-encode all categorical features. There are a huge number of product categories and seller states. Therefore, we decided to do some feature transformation on it. As we can see here, according to the average proportion of good reviews, the product categories can be divided into 3 parts, and states can also be divided into 2 parts. 
 
 * Category names: divide into 3 parts, as High Medium and Low.
-![alt]({{ site.url }}{{ site.baseurl }}/images/pic2.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/ecommerce/pic2.jpg)
 
 * States : divide into 2 parts, as High and Low.
-![alt]({{ site.url }}{{ site.baseurl }}/images/pic3.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/ecommerce/pic3.jpg)
 
 * Then we come up with a simplified logistic regression model. AUC decreases a little bit, which may be caused by loss of information due to feature transform. 
     1. Features: Delivery_time, Delivery_late, Product_description_lenght, Product_photos_qty, State_high, State_low, Cate_high, Cate_med, Cate_low
-    2. ![alt]({{ site.url }}{{ site.baseurl }}/images/pic4.jpg)
+    2. ![alt]({{ site.url }}{{ site.baseurl }}/images/ecommerce/pic4.jpg)
 
 
 * We also built a Neural Network model to give us more insights. With all features put into the model, the overall AUC increased upto 0.72, which means sales and average score are really important features to review prediction. 
 
-![alt]({{ site.url }}{{ site.baseurl }}/images/pic5.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/images/ecommerce/pic5.jpg)
 
 
 ## Challenges and solution
