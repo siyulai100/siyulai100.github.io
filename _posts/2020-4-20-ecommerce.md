@@ -3,7 +3,7 @@ title: "E-commerce Analysis"
 date: 2020-04-20
 tags: [AWS, SQL, visualization]
 header:
-  image: "/images/fraud.jpg"
+  image: "/images/laptop.jpg"
 excerpt: "AWS, Machine Learning, E-commerce Analysis, Data Science"
 mathjax: "true"
 ---

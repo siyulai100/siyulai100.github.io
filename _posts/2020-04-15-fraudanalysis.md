@@ -3,7 +3,7 @@ title: "New York Property Tax Fraud Analysis"
 date: 2020-04-15
 tags: [machine learning, data science, neural network, visualization]
 header:
-  image: "/images/fraud.jpg"
+  image: "/images/laptop.jpg"
 excerpt: "Machine Learning, Fraud Analysis, Data Science"
 mathjax: "true"
 ---
