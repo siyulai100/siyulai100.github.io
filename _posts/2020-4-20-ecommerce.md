@@ -8,7 +8,7 @@ excerpt: "AWS, Machine Learning, E-commerce Analysis, Data Science"
 mathjax: "true"
 ---
 
-# E-commerce Analysis
+
 
 ## Project Description
 
@@ -77,4 +77,4 @@ mathjax: "true"
  
 
 
-[Presentation fil and python code is here](https://github.com/siyulai100/E-commerce)
+[Presentation file and python code is here](https://github.com/siyulai100/E-commerce)

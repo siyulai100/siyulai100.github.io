@@ -8,7 +8,7 @@ excerpt: "Machine Learning, Fraud Analysis, Data Science"
 mathjax: "true"
 ---
 
-# New York Property Tax Fraud Analysis
+
 [Link to my project detals!](https://github.com/siyulai100/Fraud-Analysis-)
 ## Project Description
 
